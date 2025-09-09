@@ -1,6 +1,7 @@
 ## Animated Landing Page
 
 Estudo prático focado em CSS `transform` e @keyframes para criar uma landing page com microinterações suaves.
+o projeto pode ser acessado através do link: https://jupereira25.github.io/animated-landing-page/
 
 ### Objetivos do estudo
 - Explorar `transform` (translate, scale, rotate, skew)
